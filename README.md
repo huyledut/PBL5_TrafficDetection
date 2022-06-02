@@ -3,7 +3,7 @@
 
 clone the repository:
 ```cmd
-git clone https://github.com/Marco24082001/PBL5_SignTrafficDetection.git
+git clone https://github.com/huyledut/PBL5_TrafficDetection.git
 
 cd PBL5_SignTrafficDetection
 
