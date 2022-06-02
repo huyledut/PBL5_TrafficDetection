@@ -1,0 +1,10 @@
+path: C:/Users/PC/PycharmProjects/TrafficDetection/train_data/
+train: C:/Users/PC/PycharmProjects/TrafficDetection/train_data/images/train/
+val: C:/Users/PC/PycharmProjects/TrafficDetection/train_data/images/val/
+test: C:/Users/PC/PycharmProjects/TrafficDetection/test_data/images/
+
+# number of classes
+nc: 9
+
+# class names
+names: [ 'CamNguocChieu', 'CamXeTai', 'CamReTrai', 'CamRePhai', 'CamDoXe','HieuLenh','NguoiDiBo','VongXoay','XeBuyt']
